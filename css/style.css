@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 
-section h1 {
-    font-size: 1rem;
+h1 {
+    font-size: 32px;
     font-weight: bold;
 }
 
