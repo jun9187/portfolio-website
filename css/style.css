@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
 header {
     position: fixed;
     top: 0;
