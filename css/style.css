@@ -213,6 +213,7 @@ footer {
     object-position: 0 55%;
     max-height: 250px;
     width: 100%;
+    aspect-ratio: 1/1;
     border-radius: 20%;
     margin-bottom: 1rem;
     transition: all 0.3s ease;
