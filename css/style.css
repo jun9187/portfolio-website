@@ -237,6 +237,12 @@ main.about section p,ul {
     color: #575757;
 }
 
+.about-skills {
+    padding: 2rem;
+    min-height: 300px;
+    box-sizing: border-box;
+}
+
 /******************************/
 /*     projects.html          */
 /******************************/
