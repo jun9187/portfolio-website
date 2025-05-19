@@ -337,7 +337,7 @@ summary {
 }
 
 .contact-form button {
-    background-color: rgba(0, 20, 204, 0.692);
+    background-color: #1a73e8;
     color: white;
     border: none;
     padding: 0.75rem;
@@ -348,7 +348,7 @@ summary {
 }
 
 .contact-form button:hover {
-    background-color: rgba(0, 12, 119, 0.712);
+    background-color: #1558b0;
 }
 
 .form-message {
