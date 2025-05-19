@@ -5,7 +5,7 @@
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 24px;
     font-weight: bold;
 }
 
@@ -209,8 +209,11 @@ footer {
 }
 
 .profile-img {
-    max-width: 100%;
-    border-radius: 50%;
+    object-fit: cover;
+    object-position: 0 55%;
+    max-height: 250px;
+    width: 100%;
+    border-radius: 20%;
     margin-bottom: 1rem;
     transition: all 0.3s ease;
     box-shadow: 0 4px 12px black;
@@ -366,6 +369,7 @@ summary {
     }
 
     .profile-img-container{
+        justify-content: flex-start;
         max-width: 768px;
     }
 
